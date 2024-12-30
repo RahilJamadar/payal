@@ -252,3 +252,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-top: 30px; /* Adds space between text and image */
 }
+.mess h3{
+  color: white;
+  font-size: 30px;
+}
